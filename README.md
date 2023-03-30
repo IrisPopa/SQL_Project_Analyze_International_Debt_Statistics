@@ -5,4 +5,4 @@ and sorting and grouping. Additionally, I created a magic cell %%sql to execute 
 The data used in this project was provided by The World Bank and includes national and regional debt statistics for multiple countries worldwide recorded 
 from 1970 to 2015. The dataset provides information about the amount of debt (in USD) owed by developing countries across various categories.
 
-This was a guided project made on the DataCamp platform. In a guided project, learners are provided with a set of instructions and a specific goal to achieve using a real-world dataset.
+This project was created on the DataCamp platform as a guided learning experience. Guided projects provide learners with a structured approach to working with real-world datasets by providing step-by-step instructions and a clear objective to achieve.
